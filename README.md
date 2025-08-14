@@ -6,15 +6,13 @@
 
 ## Descrição
 
-Este projeto é uma aplicação simples para gerenciamento de tarefas, desenvolvida como exercício prático para a EBAC.
+Este projeto é uma aplicação simples para listagem, cadastramento e exclusão de clientes, desenvolvida como exercício prático para a EBAC, utilizando a API do `CrudCrud` para simular um back-end.
 
 ## Funcionalidades
 
-- Listar tarefas cadastradas
-- Adicionar novas tarefas
-- Editar tarefas existentes
-- Remover tarefas
-- Marcar tarefas como concluídas
+- Listar clientes cadastradas com GET
+- Adicionar novos clientes com POST
+- Excluir clientes existentes com REMOVE
 
 ## Tecnologias Utilizadas
 
